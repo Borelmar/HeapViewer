@@ -1,2 +1,2 @@
 # HeapViewer
-![markdown logo](./img.png)
+![markdown logo](./HeapViewer/img.png)
